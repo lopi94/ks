@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kamsoft</string>
+    <string name="text_username">Username: </string>
+    <string name="text_password">Password: </string>
+    <string name="button_login">Login</string>
+    <string name="title_activity_add_client">Add Customer</string>
+    <string name="title_activity_details_client">Customer</string>
+    <string name="title_activity_main_2">Customers</string>
+    <string name="details_page_title">Details</string>
+    <string name="button_apply">Apply</string>
+    <string name="text_name">Name</string>
+    <string name="text_address">Address</string>
+    <string name="text_email">Email</string>
+    <string name="text_phone">Phone</string>
+    <string name="list_page_title">Contacts with the customer</string>
+    <string name="activity_add_client_menu_save">Add</string>
+    <string name="header_data_validation">Error data validation</string>
+    <string name="text_data_validation">cannot be empty.</string>
+    <string name="sql_table_test">CREATE TABLE Client(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, address TEXT, email TEXT, phone TEXT);</string>
+    <string name="sql_select_all_clients">SELECT * FROM Client;</string>
+    <string name="sql_table_name">Client</string>
+</resources>
